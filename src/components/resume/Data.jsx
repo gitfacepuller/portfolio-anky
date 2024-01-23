@@ -1,0 +1,51 @@
+const Data = [
+    {
+      id: 1,
+      category: "education",
+      icon: "icon-graduation",
+      year: "2019 - present",
+      title: "Diploma Degree",
+      desc: "ISI,Higher Institute of Computer Science Montreal, Canada ",
+    },
+    {
+      id: 2,
+      category: "education",
+      icon: "icon-graduation",
+      year: "2016 - 2019",
+      title: "Master's in business administration",
+      desc: "Punjab Technical University Punjab, India",
+    },
+    {
+      id: 3,
+      category: "education",
+      icon: "icon-graduation",
+      year: "2019 - 2021",
+      title: "Bachelor's in technology",
+      desc: "Punjab Technical University Punjab, India",
+    },
+    {
+      id: 4,
+      category: "experience",
+      icon: "icon-briefcase",
+      year: "2021 - 2021",
+      title: "Technical Support Representative",
+      desc: "Shaw Communication for ShawDirect Calgary, Canada",
+    },
+    {
+      id: 5,
+      category: "experience",
+      icon: "icon-briefcase",
+      year: "2022 - 2023",
+      title: "Technical Support Represtative",
+      desc: "Alorica, inc for BestBuy Montreal, Canada",
+    },
+    {
+      id: 6,
+      category: "experience",
+      icon: "icon-briefcase",
+      year: "2021 - 2021",
+      title: "IT Administrator",
+      desc: "Pick Cleaning Montreal, Canada",
+    },
+  ];
+export default Data
