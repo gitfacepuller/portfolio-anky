@@ -4,7 +4,7 @@ const Data = [
       category: "education",
       icon: "icon-graduation",
       year: "2019 - present",
-      title: "Diploma Degree",
+      title: "Associate Degree",
       desc: "ISI,Higher Institute of Computer Science Montreal, Canada ",
     },
     {
