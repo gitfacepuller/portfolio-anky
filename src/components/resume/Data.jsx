@@ -36,7 +36,7 @@ const Data = [
       category: "experience",
       icon: "icon-briefcase",
       year: "2022 - 2023",
-      title: "Technical Support Represtative",
+      title: "Technical Support Representative",
       desc: "Alorica, inc for BestBuy Montreal, Canada",
     },
     {
