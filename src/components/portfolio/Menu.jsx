@@ -14,7 +14,7 @@ const Menu = [
     {
       id: 2,
       image: Work2,
-      title: "Yemora.com",
+      title: "Yeomra.com",
       category: "Project",
     },
     {
